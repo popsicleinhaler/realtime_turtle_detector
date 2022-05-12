@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgturt</folder>
+	<filename>Image_29.jpg</filename>
+	<path>C:\Users\shaki\Documents\GitHub\RealTimeObjectDetection\imgturt\Image_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turtle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>103</ymin>
+			<xmax>660</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>
